@@ -1,0 +1,31 @@
+id,title,topic,difficulty,description,skills
+1,Two Sum,Hash Map,Easy,Find two numbers whose sum equals a target using a dictionary.,arrays dictionary hashmap lookup
+2,Valid Anagram,Strings,Easy,Check whether two strings contain the same characters and frequencies.,strings frequency dictionary counting
+3,Maximum Subarray,Arrays,Medium,Find the contiguous subarray with the largest sum using Kadane algorithm.,arrays dynamic programming subarray
+4,Binary Search,Searching,Easy,Find a target element in a sorted array using binary search.,arrays searching pointers
+5,Climbing Stairs,Dynamic Programming,Easy,Count the ways to reach the top using one or two steps.,recurrence fibonacci dynamic programming
+6,House Robber,Dynamic Programming,Medium,Find maximum money without selecting adjacent houses.,arrays dynamic programming pick skip
+7,Reverse Linked List,Linked Lists,Easy,Reverse a singly linked list using previous current and next pointers.,linked list pointers iteration
+8,Maximum Depth of Binary Tree,Trees,Easy,Find maximum depth of a binary tree using DFS recursion.,tree recursion dfs
+9,Binary Tree Level Order Traversal,Trees,Medium,Traverse a binary tree level by level using BFS and a queue.,tree bfs queue deque
+10,Valid Parentheses,Stack,Easy,Check whether brackets are correctly opened and closed.,stack strings matching
+11,Factorial,Recursion,Easy,Calculate factorial using recursion and a base case.,recursion functions base case
+12,Merge Intervals,Sorting,Medium,Merge overlapping intervals after sorting.,sorting arrays intervals
+13,Longest Common Subsequence,Dynamic Programming,Medium,Find the longest common subsequence between two strings.,strings dynamic programming
+14,Frequency Counter,Hash Map,Easy,Count the frequency of every element in a list using a dictionary.,dictionary hashmap counting frequency
+15,Palindrome Check,Strings,Easy,Check whether a string reads the same forward and backward.,strings two pointers
+16,First Unique Character,Hash Map,Easy,Find the first character that appears only once.,hashmap dictionary frequency strings
+17,Number of Islands,Graphs,Medium,Count connected islands in a grid using DFS or BFS.,graphs dfs bfs grid
+18,Coin Change,Dynamic Programming,Medium,Find minimum coins needed to make a target amount.,dynamic programming knapsack arrays
+19,Invert Binary Tree,Trees,Easy,Invert a binary tree by swapping left and right subtrees.,tree dfs recursion
+20,Longest Substring Without Repeating Characters,Sliding Window,Medium,Find the longest substring without duplicate characters.,sliding window hashmap strings
+21,Fizz Buzz,Python Basics,Easy,Print Fizz for multiples of three and Buzz for multiples of five.,python basics loops conditions
+22,Find Duplicate Number,Arrays,Medium,Find a duplicate number in an array.,arrays hashmap pointers
+23,Reverse String,Strings,Easy,Reverse a string using iteration or two pointers.,strings two pointers iteration
+24,Graph BFS,Graphs,Medium,Traverse graph nodes using breadth first search and a queue.,graphs bfs queue traversal
+25,Matrix Path,Dynamic Programming,Medium,Count paths from the top-left to bottom-right of a grid.,matrix grid dynamic programming paths
+26,Binary Tree Right Side View,Trees,Medium,Return nodes visible from the right side using level order traversal.,tree bfs queue level order
+27,Selection Sort,Sorting,Easy,Sort an array by repeatedly selecting the smallest remaining element.,sorting arrays loops
+28,GCD,Python Basics,Easy,Find greatest common divisor using Euclidean algorithm.,math loops recursion modulo
+29,Subsets,Backtracking,Medium,Generate all possible subsets using backtracking.,backtracking recursion arrays
+30,Top K Frequent Elements,Hash Map,Medium,Find the k most frequent elements using a frequency map and heap.,hashmap frequency heap sorting
